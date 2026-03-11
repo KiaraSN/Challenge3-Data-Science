@@ -114,19 +114,6 @@ Os resultados deste projeto podem ser utilizados para:
 
 ---
 
-# 📂 Estrutura do Projeto
-
-```
-telecomx-churn-prediction
-
-│
-├── telecomx_parte2.ipynb
-├── README.md
-└── dados_tratados.csv (opcional)
-```
-
----
-
 # 📚 Aprendizados
 
 Durante o desenvolvimento deste projeto foram aplicados conhecimentos fundamentais da área de **Data Science**, incluindo:
